@@ -1,0 +1,2 @@
+id = VARCHAR(255)
+income = VARCHAR(255)
